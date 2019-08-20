@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rspService>
+<rspHeader>
+	<tranCode>TS01</tranCode>
+	<transDate>20190619</transDate>	
+	<transTime>131452</transTime>	
+	<backSeq>3456345</backSeq>
+	<retCode>com.spdb.training.service.servicedemo1</retCode>
+	<retMsg>交易成功</retMsg>
+</rspHeader>
+<body>
+	<nameId>32456788654334001</nameId>
+	<transDate>20190619</transDate>
+</body>
+
+</rspService>

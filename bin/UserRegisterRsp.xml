@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rspService>
+<rspHeader>
+	<tranCode>UR01</tranCode>
+	<transDate>20190723</transDate>	
+	<transTime>131452</transTime>	
+	<backSeq>3453456345</backSeq>
+	<retCode>000000</retCode>
+	<retMsg>交易成功</retMsg>
+</rspHeader>
+<body>
+	<name>zhangSan</name>
+	<userNo>3456543</userNo>
+</body>
+
+</rspService>

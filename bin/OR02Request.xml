@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reqService>
+<reqHeader>
+	<tranCode>OR02</tranCode>
+	<transDate>20190816</transDate>	
+	<transTime>131452</transTime>	
+</reqHeader>
+<body>
+	<item_code>1</item_code>
+	<order_qty>20</order_qty>	
+	<order_user>王亮</order_user>	
+</body>
+
+</reqService>

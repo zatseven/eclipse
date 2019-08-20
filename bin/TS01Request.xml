@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reqService>
+<reqHeader>
+	<tranCode>TS01</tranCode>
+	<transDate>20190619</transDate>	
+	<transTime>131452</transTime>	
+	<sysId>0515</sysId>
+	<addr>com.spdb.training.service.servicedemo1</addr>
+	<msgId>2345</msgId>
+</reqHeader>
+<body>
+	<globalSeq>05152345676576</globalSeq>
+	<transSeq>32456788654334001</transSeq>
+	<transDate>20190619</transDate>
+	<name>zhangSan</name>
+	<age>19</age>
+	<telNo>18800009999</telNo>
+</body>
+
+</reqService>

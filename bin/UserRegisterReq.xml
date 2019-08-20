@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reqService>
+	<reqHeader>
+		<tranCode>UR</tranCode>
+		<transDate>20190619</transDate>
+		<transTime>131452</transTime>
+		<sysId>0515</sysId>
+		<addr>ur</addr>
+		<msgId>2345</msgId>
+	</reqHeader>
+	<body>
+		<globalSeq>05152345632346</globalSeq>
+		<transSeq>456732343</transSeq>
+		<transDate>20190723</transDate>
+		<id>0001</id>
+		<name>zhangSan</name>
+		<sex>1</sex>
+		<age>19</age>
+		<telNo>18800009999</telNo>
+		<creditId>366041992000099</creditId>
+	</body>
+</reqService>

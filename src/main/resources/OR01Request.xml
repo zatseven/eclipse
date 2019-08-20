@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reqService>
+<reqHeader>
+	<tranCode>OR01</tranCode>
+	<transDate>20190816</transDate>	
+	<transTime>131452</transTime>	
+</reqHeader>
+<body>
+
+</body>
+
+</reqService>

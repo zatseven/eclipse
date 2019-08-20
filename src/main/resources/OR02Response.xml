@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rspService>
+    <rspHeader>
+        <tranCode>OR02</tranCode>
+        <transDate>20192419</transDate>
+        <transTime>1566192261846</transTime>
+        <retCode>000000000000</retCode>
+        <retMsg>交易成功</retMsg>
+    </rspHeader>
+    <body/>
+</rspService>
