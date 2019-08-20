@@ -24,7 +24,7 @@ public class StockTransServices implements ITransServices<Object, StockRsp> {
 		if (stockService == null) {
 			stockService = new StockService();
 		}
-        //获得库存不为零的商品信息
+        //获得库存不为零的商品信息123
 		List<Stock> stocks = stockService.queryQtyNotZero();
         
 		StockRsp context = rspContext.getContext();
